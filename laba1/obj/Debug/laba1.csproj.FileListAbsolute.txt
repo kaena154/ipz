@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\2 курс\SystProg\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\Admin\Desktop\2 курс\SystProg\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\Admin\Desktop\2 курс\SystProg\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\Admin\Desktop\2 курс\SystProg\laba1\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\2 курс\SystProg\laba1\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\Admin\Desktop\2 курс\SystProg\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Admin\Desktop\2 курс\SystProg\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\2 курс\SystProg\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\2 курс\SystProg\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\Admin\Desktop\2 курс\SystProg\laba1\laba1\obj\Debug\laba1.pdb
